@@ -9,7 +9,7 @@
 # 합성곱 신경망 구조입니다.
 
 총 4개의 계층으로 이루어져있고
-3개의 Conv - ReLU - Pool - Bn
+3개의 Conv - ReLU - Pool - Bn,
 1개의 Flat - Affine - Softmax로 이루어져 있습니다.
 
 # References
