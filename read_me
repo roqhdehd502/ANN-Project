@@ -5,3 +5,10 @@
 
 이미지를 각 카테고리별 라벨링 했으며 코드는 다음과 같습니다.
 0 = sedan, 1 = sportscar, 2 = suv, 3 = truck
+
+References
+1. Cars Dataset, Stanford Univ. 2013 
+(https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
+
+2. Namin Neural Network, Min Woo Na. 2019
+(https://github.com/roqhdehd502/Namin-Neural-Network)
