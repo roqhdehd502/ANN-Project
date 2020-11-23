@@ -12,7 +12,7 @@
 3개의 Conv - ReLU - Pool - Bn
 1개의 Flat - Affine - Softmax로 이루어져 있습니다.
 
-References
+# References
 1. Cars Dataset, Stanford Univ. 2013 
 (https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
 
