@@ -11,6 +11,7 @@
 총 4개의 계층으로 이루어져있고
 3개의 Conv - ReLU - Pool - Bn,
 1개의 Flat - Affine - Softmax로 이루어져 있습니다.
+[![Vue](/47406388/69895516-a4308a00-1374-11ea-9b59-c6f0597e71d4.jpg)](https://user-images.githubusercontent.com/)
 
 # References
 1. Cars Dataset, Stanford Univ. 2013 
